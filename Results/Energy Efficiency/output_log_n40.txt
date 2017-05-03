@@ -1,0 +1,3 @@
+Training Computation time: 1296.25 ms
+Prediction Computation time(for each sample): 0.783147 ms
+Root mean squared error: 8.68312
