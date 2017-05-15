@@ -1,1 +1,0 @@
-# Parallel-implementation-of-Extreme-Learning-Machine-ELM-on-GPU
